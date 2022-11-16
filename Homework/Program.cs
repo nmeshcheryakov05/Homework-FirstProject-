@@ -6,7 +6,22 @@ namespace Homework
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            printMenu();
+            int userInput = int.Parse(Console.ReadLine());
+
+            while (userInput != 0)
+            {
+                //обработка разных случаев
+
+                printMenu(); //получаем меню еще раз
+                userInput = int.Parse(Console.ReadLine()); // повторное считывание данных от пользователя
+            }
+            Console.WriteLine("Программа завершена");
+        }
+
+        public static void printMenu()
+        {
+
         }
     }
 }
