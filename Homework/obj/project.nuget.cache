@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "9xXV7ZQEQxuSUyNSU4qY9pQeLspd8pJdVazdnYcW+SDH3BsRtFxSgJbv1WaVoNxtWThyYQubGY+5jXZ3EBUTCA==",
+  "dgSpecHash": "T68BY1WJ2mRody/PuP4kd8+Yj5gaKsdNpop4mNp2IVeN9dyPc0l7FC2TArZePKFeWytFN/v6ae7qetdpWZ/2DA==",
   "success": true,
-  "projectFilePath": "/Users/nikitamaslov/Projects/Homework/Homework/Homework.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\BesterChat\\source\\repos\\Homework-FirstProject-\\Homework\\Homework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BesterChat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\BesterChat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\BesterChat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\BesterChat\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
